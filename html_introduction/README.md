@@ -48,29 +48,4 @@ O layout da aplicação está disponível no ["Figma"](<"https://www.figma.com/d
   <img src="https://skillicons.dev/icons?i=git,vscode" />
 </a>
 
-### Clone o repositório
-
-```bash
-# Clone este repositório
-$ git clone <https://github.com/Gelzieny/formacao_discover.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd formacao_discover
-
-```
-
-### Abra o projeto:
-
-- Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador.
-
-### Alternar entre os idiomas:
-
-- Clique nos botões de idioma ("Português" ou "English") para alternar entre as traduções disponíveis.
-
-### Alternar entre os temas:
-
-- Clique no botão de alternância de tema (ícone de sol ou lua) para mudar entre o tema claro e o escuro.
-
-# 🧑🏻‍💻 Autor
-
-Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
+## 🚀 Como executar o projeto
