@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
-  margin: 0;
   text-align: center;
+  margin: 0;
 }
 
 #hero {
@@ -31,7 +31,7 @@ a {
 }
 
 p,
-.footer {
+#footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
@@ -44,12 +44,14 @@ p,
 .line {
   width: 568px;
   height: 0;
+
   margin: 0 auto 8px;
+
   border: 1px solid #eceff2;
 }
 
 #balls {
   position: fixed;
-  bottom: 0px;
-  right: 0px;
+  bottom: 0;
+  right: 0;
 }

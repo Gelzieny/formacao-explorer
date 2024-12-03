@@ -17,9 +17,6 @@ O layout da aplicação está disponível no ["Figma"](https://www.figma.com/des
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-  <img alt="Tela inicial em Inglês" title="#elaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/dark-en.png?raw=true" width="300px">
+  <img alt="Tela home da aplicação" title="#TelaHome" src="https://github.com/Gelzieny/formacao-explorer/blob/main/html_introduction/desafio-01/src/assets/home.png?raw=true" >
 
-  <img alt="Tela inicial em Português" title="#TelaInicialPtBr" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white.png?raw=true" width="300px">
-
-  <img alt="Tela inicial em Inglês" title="#TelaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" width="300px">
 </p>

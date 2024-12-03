@@ -1,0 +1,70 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.main{
+  width:626px;
+  margin: 0 auto 64px;
+}
+
+.main img{
+  margin-top: 64px;
+  margin-bottom: 32px;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  color: #3f3d56;
+  font-weight: mixed;
+  font-size: 32px;
+  line-weight: auto;
+  margin-bottom: 16px;
+}
+
+h1 span {
+  color: #ee24ff;
+  font-weight: bold;
+}
+
+p {
+  color: #828282;
+  line-height: 22px;
+}
+
+p span {
+  color: #3f3d56;
+  font-weight: bold;
+}
+
+#flut {
+  color: #828282;
+}
+
+.line {
+  width: 317px;
+  height: 0;
+  margin: 0 auto 16px;
+  border: 1px solid #eceff2;
+}
+
+#footer a {
+  color: #3f3d56;
+  font-weight: bold;
+  line-height: 147.7%;
+  text-decoration: none;  
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#rodape {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%; /* Ajusta a largura da imagem para preencher a tela */
+  height: auto; /* Mantém a proporção da imagem */
+  z-index: -1; /* Coloca a imagem atrás de outros elementos, se necessário */
+}
