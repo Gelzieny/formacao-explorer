@@ -43,7 +43,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
     Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento de elementos, utilizando o Box Model e o Flexbox do CSS para construir layouts flexíveis e alinhados com precisão.
   </p>
 
-  [Repositorio do módulo](https://github.com/Gelzieny/introducao_html_css.git)
+  [Repositorio do módulo](https://github.com/Gelzieny/formacao-explorer/tree/main/html_introduction)
 
 </details>
 
