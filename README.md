@@ -48,7 +48,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Avançando no HTML e CSS </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Fish%20Cake%20with%20Swirl.png?raw=true" alt="Alien" width="25" height="25" /> Avançando no HTML e CSS </summary>
   <p align="justify">
     Neste módulo, abordamos a criação de formulários em HTML, explorando diversos tipos de campos de entrada. Além disso, aprendemos sobre responsividade, garantindo que o projeto se adapte a diferentes dispositivos. Estudamos também o uso do CSS Grid e aplicamos transições animadas para tornar o projeto ainda mais dinâmico e envolvente.
   </p>
@@ -58,7 +58,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Intensivão </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Comet.png?raw=true" alt="Alien" width="25" height="25" /> Intensivão </summary>
   <p align="justify">
     Neste módulo, fazemos um resumo dos conteúdos abordados até o momento, com desafios para revisitar e reforçar os conceitos aprendidos.
   </p>
