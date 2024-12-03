@@ -39,4 +39,8 @@ O layout do projeto-02 está disponível no [Figma](<https://www.figma.com/desig
 
 O layout do desafio iniciante - Corrigindo bugs (02) 👀 está disponível no [Figma](<https://www.figma.com/design/ui2t2HLINDEbfKY2yE711Q/Explorer---Projeto-02-(Copy)?m=auto&t=V4jhFdeSTe941CMe-6>)
 
+<img alt="DEsafio 02" title="#Desafio1" src="https://github.com/Gelzieny/formacao-explorer/blob/main/html_introduction/image/Projeto%2002.png?raw=true" >
+
 O layout do desafio avançado - recriando 👀 layout está disponível no [Figma](<https://www.figma.com/design/s0OWcbciOtWWGQeeXZU1hS/Explorer-(Copy)?m=auto&t=V4jhFdeSTe941CMe-6>)
+
+<img alt="DEsafio 03" title="#Desafio3" src="https://github.com/Gelzieny/formacao-explorer/blob/main/html_introduction/image/Desafio.png?raw=true" >
