@@ -29,4 +29,8 @@
 
 O layout do projeto-01 está disponível no [Figma](<https://www.figma.com/design/rp0GFhl0dH7EFaQVPXxp5w/Explorer---Projeto-01-(Copy)?node-id=0-1&node-type=canvas&t=e4RDknBfVS0xL7Lp-0>)
 
+<img alt="Projeto 01" title="#Projeto1" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" >
+
 O layout do projeto-02 está disponível no [Figma](<https://www.figma.com/design/ui2t2HLINDEbfKY2yE711Q/Explorer---Projeto-02-(Copy)?node-id=1-5&node-type=frame&t=e0tR8T2G3EPsNdjm-0>)
+
+<img alt="Projeto 02" title="#Projeto2" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" >
