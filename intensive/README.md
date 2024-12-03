@@ -22,3 +22,8 @@ Este projeto é uma página web criada com o objetivo de promover a mensagem de 
 ## 🎨 Layout
 
 - O layout do desafio está disponível no [Figma](<https://www.figma.com/design/Ff7z05H2TZkFaVHaKQeWhL/Explore-sem-limites-(Copy)?node-id=158-677&node-type=canvas&t=OektE18d8WsEKUtN-0>)
+
+
+<img alt="" title="#" src="https://github.com/Gelzieny/formacao-explorer/blob/main/intensive/img/image1.png?raw=true" width="300">
+
+<img alt="" title="#" src="https://github.com/Gelzieny/formacao-explorer/blob/main/intensive/img/image2.png?raw=true" width="300">
