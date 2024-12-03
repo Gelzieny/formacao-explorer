@@ -11,6 +11,13 @@
 
 - [Material complementar - Glossário HTML](https://efficient-sloth-d85.notion.site/Principais-elementos-HTML-da8b750fee5b49f2923fdc35b1c921fc)
 
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização e responsividade.
+- **Ionicons**: Ícones para redes sociais.
+- **Google Fonts**: Fonte utilizada para o texto (Inter).
+
 ## 🚀 Pré-requisitos
 
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta:</p>
