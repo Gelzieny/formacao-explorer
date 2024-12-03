@@ -15,7 +15,6 @@
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização e responsividade.
-- **Ionicons**: Ícones para redes sociais.
 - **Google Fonts**: Fonte utilizada para o texto (Inter).
 
 ## 🚀 Pré-requisitos
