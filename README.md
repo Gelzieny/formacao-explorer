@@ -68,7 +68,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Versionamneto de código </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Versionamneto de código </summary>
   <p align="justify">
     Neste módulo, aprendemos sobre a ferramenta Git, utilizada para controle de versões, e como integrá-la ao GitHub para armazenar o código-fonte do projeto.
   </p>
