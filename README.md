@@ -47,3 +47,30 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 
 </details>
 
+<details>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Avançando no HTML e CSS </summary>
+  <p align="justify">
+    Neste módulo, abordamos a criação de formulários em HTML, explorando diversos tipos de campos de entrada. Além disso, aprendemos sobre responsividade, garantindo que o projeto se adapte a diferentes dispositivos. Estudamos também o uso do CSS Grid e aplicamos transições animadas para tornar o projeto ainda mais dinâmico e envolvente.
+  </p>
+ 
+  [Repositorio do módulo](https://github.com/Gelzieny/formacao-explorer/tree/main/advanced_html)
+
+</details>
+
+<details>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Intensivão </summary>
+  <p align="justify">
+    Neste módulo, fazemos um resumo dos conteúdos abordados até o momento, com desafios para revisitar e reforçar os conceitos aprendidos.
+  </p>
+ 
+  [Repositorio do módulo](https://github.com/Gelzieny/formacao-explorer/tree/main/intensive)
+
+</details>
+
+<details>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Versionamneto de código </summary>
+  <p align="justify">
+    Neste módulo, aprendemos sobre a ferramenta Git, utilizada para controle de versões, e como integrá-la ao GitHub para armazenar o código-fonte do projeto.
+  </p>
+ 
+</details>
