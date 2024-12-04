@@ -58,7 +58,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Fish%20Cake%20with%20Swirl.png?raw=true" alt="Alien" width="25" height="25" /> Introdução ao JavaScript </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Globe%20with%20Meridians.png?raw=true" alt="Alien" width="25" height="25" /> Introdução ao JavaScript </summary>
   <p align="justify">
     Neste módulo, abordamos os conceitos fundamentais do JavaScript, explorando como tornar as páginas da web mais interativas. Aprendemos a manipular o DOM, criar eventos e interagir com os elementos da página de forma dinâmica. Também vimos como validar formulários e aplicar animações simples para melhorar a experiência do usuário. Além disso, entendemos como o JavaScript pode ser utilizado tanto no front-end quanto no back-end com o Node.js, ampliando as possibilidades de desenvolvimento.
   </p>
@@ -78,7 +78,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Fish%20Cake%20with%20Swirl.png?raw=true" alt="Alien" width="25" height="25" /> Avançando no JavaScript </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Hourglass%20Done.png?raw=true" alt="Alien" width="25" height="25" /> Avançando no JavaScript </summary>
   <p align="justify">
     Neste módulo, avançamos no aprendizado do JavaScript, explorando conceitos mais avançados da linguagem. Estudamos como trabalhar com funções de forma mais eficiente, utilizando callbacks, promises e async/await para lidar com operações assíncronas. Também aprofundamos no uso de objetos e arrays, entendendo melhor como manipulá-los para resolver problemas complexos. Além disso, aprendemos sobre o uso de módulos para organizar o código e torná-lo mais modular e reutilizável, aprimorando a estrutura dos nossos projetos.
   </p>
@@ -89,7 +89,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Fish%20Cake%20with%20Swirl.png?raw=true" alt="Alien" width="25" height="25" /> JavaScript antes do Framework </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> JavaScript antes do Framework </summary>
   <p align="justify">
     Neste módulo, nos aprofundamos nos fundamentos do JavaScript antes de partir para o uso de frameworks. Exploramos conceitos importantes, como escopo, closures e o uso de funções como primeira classe. Aprendemos também sobre manipulação de objetos, arrays e o protótipo do JavaScript, além de como otimizar o desempenho do código. O foco foi entender a linguagem de forma mais profunda, garantindo que, ao aprender frameworks como React ou Angular no futuro, tenhamos uma base sólida para compreender e aproveitar melhor suas funcionalidades.
   </p>
@@ -99,7 +99,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Versionamneto de código </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Lady%20Beetle.png?raw=true" alt="Alien" width="25" height="25" /> Versionamneto de código </summary>
   <p align="justify">
     Neste módulo, aprendemos sobre a ferramenta Git, utilizada para controle de versões, e como integrá-la ao GitHub para armazenar o código-fonte do projeto.
   </p>
@@ -107,23 +107,16 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Backend </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Teacup%20Without%20Handle.png?raw=true" alt="Alien" width="25" height="25" /> Backend </summary>
   <p align="justify">
     Neste módulo, exploramos os conceitos essenciais do desenvolvimento backend. Aprendemos sobre a criação de servidores, rotas e como tratar requisições HTTP utilizando o JavaScript. Vimos como utilizar Node.js para configurar um servidor e gerenciar o fluxo de dados entre o front-end e o banco de dados. Também estudamos sobre APIs RESTful, como estruturá-las e como enviar e receber dados de forma eficiente. O módulo nos preparou para entender a lógica por trás das aplicações web, garantindo que possamos construir sistemas dinâmicos e funcionai
   </p>
  
 </details>
 
-<details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Frontend </summary>
-  <p align="justify">
-    Neste módulo, abordamos os fundamentos do desenvolvimento front-end, focando na construção de interfaces de usuário dinâmicas e interativas. Estudamos HTML e CSS de forma mais avançada, aprendendo a estruturar e estilizar páginas de maneira eficiente. Também exploramos o uso de JavaScript para adicionar interatividade aos elementos da página, como formulários e animações. O módulo nos preparou para criar experiências de usuário ricas, aplicando boas práticas de design responsivo e garantindo que os projetos funcionem bem em diferentes dispositivos e tamanhos de tela.
-  </p>
- 
-</details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Frontend </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Frontend </summary>
   <p align="justify">
     Neste módulo, aprendemos a integrar o desenvolvimento front-end e back-end, criando uma aplicação completa e funcional. Estudamos como conectar o front-end, desenvolvido com HTML, CSS e JavaScript, com o back-end, utilizando APIs RESTful. Vimos como fazer requisições HTTP, enviar e receber dados entre o servidor e a interface do usuário, permitindo que a aplicação seja dinâmica e interativa. Além disso, exploramos como garantir que as duas partes da aplicação se comuniquem de forma eficiente, criando uma experiência fluida e coesa para o usuário final.
   </p>
@@ -131,7 +124,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Deploy e Testes </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Video%20Game.png?raw=true" alt="Alien" width="25" height="25" /> Deploy e Testes </summary>
   <p align="justify">
     Neste módulo, abordamos as práticas de deploy e testes para garantir a qualidade e o funcionamento contínuo das aplicações. Aprendemos a realizar o deploy de projetos web em plataformas como Heroku, Vercel e Netlify, tornando-os acessíveis ao público. Também exploramos a importância dos testes automatizados, utilizando ferramentas como Jest e Cypress para validar funcionalidades e garantir que a aplicação esteja livre de erros. O módulo enfatizou a importância de um ciclo de desenvolvimento eficiente, com deploys regulares e testes contínuos, para manter a aplicação estável e confiável.
   </p>
@@ -139,7 +132,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Conteúdos Extras </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Conteúdos Extras </summary>
   <p align="justify">
     Neste módulo, exploramos conteúdos extras que complementam e expandem nossos conhecimentos no desenvolvimento web. Vimos tópicos avançados e ferramentas que podem ser utilizadas para aprimorar projetos e melhorar a produtividade. Discutimos práticas de otimização de performance, segurança em aplicações web e como utilizar ferramentas de versionamento, como o Git, de forma mais eficiente. Também aprendemos sobre boas práticas no gerenciamento de código e integração contínua, além de explorar novas tecnologias e tendências no mercado de desenvolvimento. Esse módulo nos preparou para lidar com desafios mais complexos e melhorar ainda mais nossa abordagem no desenvolvimento de software.
   </p>
@@ -147,7 +140,7 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </details>
 
 <details>
-  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Conteúdos Extras </summary>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="Alien" width="25" height="25" /> Desafio Final </summary>
   <p align="justify">
     No módulo "Desafio Final", tivemos a oportunidade de aplicar todo o conhecimento adquirido ao longo do curso em um projeto completo. O objetivo foi integrar conceitos de front-end, back-end, testes e deploy, criando uma aplicação funcional e bem estruturada. Durante o desafio, fomos desafiados a resolver problemas reais de desenvolvimento, gerenciar a comunicação entre as partes da aplicação e garantir que o produto final estivesse pronto para ser disponibilizado ao público. Ao final, conseguimos consolidar nossas habilidades e demonstrar nossa evolução como desenvolvedores, entregando um projeto que reflete nossa capacidade de trabalhar de forma independente e eficiente.
   </p>
