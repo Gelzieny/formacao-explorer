@@ -15,8 +15,11 @@
 <img alt="Formulario" title="#Formulario" src="https://github.com/Gelzieny/formacao-explorer/blob/main/advanced_html/img/proj_form.png?raw=true" >
 
 
-- O layout responsivo do projeto está disponível no [Figma](<https://www.figma.com/design/3cR8KQ7kAYQQJvsDZPO9Qr/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203-412&node-type=canvas&t=Co3p1RqRsC5KFXsb-0>)
-- 
+- O layout responsivo do projeto está disponível no [Figma](<https://www.figma.com/design/jdE7M7D07hdSeuheB7qG8I/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203-412&node-type=canvas&t=zEONZhVIoJHls2XK-0>)
+
+- O link para o repositório do projeto responsivo está disponível no [GitHub](<https://github.com/Gelzieny/formacao-explorer/tree/main/advanced_html/projetos/Formulario>)
+
+<img alt="Responividade" title="#Responividade" src="https://github.com/Gelzieny/formacao-explorer/blob/main/advanced_html/img/proj_form.png?raw=true" >
 
 ## 🎨 Layout dos desafios
 
