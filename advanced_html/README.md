@@ -22,6 +22,9 @@
 
 ### Reforçando a responsividade
 
+- O layout responsivo do projeto está disponível no [Figma](<https://www.figma.com/design/mvvf2QqTxGebUHHXRQxdIF/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=1-754&node-type=frame&t=UwK7nAzz6yER6FYg-0>)
+
+- O link para o repositório do projeto responsivo está disponível no [GitHub](<https://github.com/Gelzieny/formacao-explorer/tree/main/advanced_html/projetos/Cheesecake>)
 
 ## 🎨 Layout dos desafios
 
