@@ -26,6 +26,12 @@
 
 - O link para o repositório do projeto responsivo está disponível no [GitHub](<https://github.com/Gelzieny/formacao-explorer/tree/main/advanced_html/projetos/Cheesecake>)
 
+### Grid
+
+- O layout do projeto referente ao Grid está disponível no [Figma](<https://www.figma.com/design/14VbPbQu74ltHMU5DoTEQR/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?node-id=115-3&node-type=canvas&t=JzjD2tLLM1ZrbWPZ-0>)
+
+- O link para o repositório do projeto responsivo referente ao Grid está disponível no [GitHub](<https://github.com/Gelzieny/formacao-explorer/tree/main/advanced_html/projetos/Galaxies>)
+
 ## 🎨 Layout dos desafios
 
 ### Formulário
