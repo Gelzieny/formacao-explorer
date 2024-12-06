@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotoblog</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div id="app">
+      <header class="container">
+        <nav>
+          <img src="../img/camera.svg" alt="Imagem da logomarca" />
+
+          <ul>
+            <li>Home</li>
+            <li class="active">Galeria</li>
+          </ul>
+        </nav>
+
+        <form>
+          <div class="input-wrapper">
+            <label for="search">Pesquise por imagens e coleções</label>
+            <input id="search" type="text" placeholder="Pesquise por imagens e coleções" >
+          </div>
+        </form>
+
+        <img
+          class="avatar"
+          src="https://randomuser.me/api/portraits/women/5.jpg"
+          alt="Imagem de uma mulher"
+        />
+      </header>
+      <main>
+        <div class="container">
+          <h1>Galeria</h1>
+
+          <section class="gallery">
+            <figure class="item">
+              <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Workspace elétrica</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+
+            <figure class="item" style="--delay:.6s">
+              <img src="https://plus.unsplash.com/premium_photo-1670315264879-59cc6b15db5f?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Dark and red</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+
+            <figure class="item" style="--delay:.8s">
+              <img src="https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?q=80&w=1708&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Organização e grids</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+
+            <figure class="item" style="--delay:1s">
+              <img src="https://plus.unsplash.com/premium_photo-1661962318201-c7faa790617b?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Colméia</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+
+            <figure class="item" style="--delay:1.2s">
+              <img src="https://plus.unsplash.com/premium_photo-1683769303645-5460bfe2b5f9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Setup de escritor</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+
+            <figure class="item" style="--delay:1.4s">
+              <img src="https://images.unsplash.com/photo-1491336238524-c990bd671778?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+              <figcaption class="details">
+                <h2>Ergonomia e cores</h2>
+                <div class="tags">
+                  <span>tag</span>
+                </div>
+              </figcaption>
+            </figure>
+          </section>
+        </div>
+      </main>
+      <footer class="container">
+        <p>© 2023 - Rocketseat Explorer</p>
+      </footer>
+    </div>
+  </body>
+</html>
